@@ -13,6 +13,9 @@
         </li>
         <li class="mb-2">
           <a href="#" class="text-white  px-2 py-1 rounded transition duration-300">Compétences :</a>
+        </li>  
+        <li class="mb-2">
+          <a href="#" class="text-white  px-2 py-1 rounded transition duration-300">Langues :</a>
         </li>
        
       </ul>
