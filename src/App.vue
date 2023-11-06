@@ -8,7 +8,7 @@ import Content from '@/components/Content.vue';
 
 
 <template>
-  <div class="flex h-screen">
+  <div class="flex h-100">
     <Sidebar />
     <div class="flex-1 p-4">
       <Header />
