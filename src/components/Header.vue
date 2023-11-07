@@ -14,6 +14,7 @@ const data = {
         <div class="flex-1 mt-5">
             <h2 class="text-4xl font-extrabold dark:text-white">DARRAGON-KONKI</h2>
             <h2 class="text-4xl dark:text-white">Danny</h2>
+            <p class="mt-2">13/07/1990</p>
             <p class="my-4 text-lg text-gray-700">Développeur Web junior</p>
         </div>
 

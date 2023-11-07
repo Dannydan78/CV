@@ -6,7 +6,7 @@
     <div class="flex">
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">FREE</div>
-            <p class="mx-14 italic text-blue-500">75008 Paris</p>
+            <p class="mx-14 italic">75008 Paris</p>
             <p class="mx-14 ">(Août 2023 - Octobre 2023)</p>
         </div>
         <div class="flex">
@@ -23,7 +23,7 @@
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">LA POSTE</div>
             <p class="mx-14 italic ">78200 Mantes la jolie</p>
-            <p class="mx-14">Septembre 2010 - à aujourd'hui</p>
+            <p class="mx-14">(Septembre 2010 - à aujourd'hui)</p>
         </div>
         <div class="flex">
             <div class="mt-10 mx-24">
@@ -36,7 +36,7 @@
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">BARBER'UP</div>
             <p class="mx-14 italic">78710 Rosny sur Seine</p>
-            <p class="mx-14">Septembre 2020 - Août 2022</p>
+            <p class="mx-14">(Septembre 2020 - Août 2022)</p>
         </div>
         <div class="flex">
             <div class="mt-10 mx-28">
@@ -52,7 +52,7 @@
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">LE 47</div>
             <p class="mx-14 italic">78520 Limay</p>
-            <p class="mx-14">Octobre 2018 - Décembre 2019</p>
+            <p class="mx-14">(Octobre 2018 - Décembre 2019)</p>
         </div>
         <div class="flex">
             <div class="mt-10 mx-24">
@@ -68,7 +68,7 @@
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">OPTIONS</div>
             <p class="mx-14 italic">78130 Les Mureaux</p>
-            <p class="mx-14">Mai 2009 - Septembre 2009</p>
+            <p class="mx-14">(Mai 2009 - Septembre 2009)</p>
         </div>
         <div class="flex">
             <div class="mt-10 mx-32">
@@ -84,7 +84,7 @@
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">NEXTFORMATION</div>
             <p class="mx-14 italic">94080 Vincennes</p>
-            <p class="mx-14">Mars 2023 - Octobre 2023</p>
+            <p class="mx-14">(Mars 2023 - Octobre 2023)</p>
         </div>
         <div class="flex">
             <div class="mt-10 mx-32">
@@ -96,15 +96,17 @@
     <div class="flex">
         <div class="flex-2">
             <div class="mt-10 mx-14 font-semibold underline">Lycee Jean Rostand</div>
-            <p class="mx-14 italic text-blue-500">78200 Mantes la Jolie</p>
-            <p class="mx-14 ">2007 - 2009</p>
+            <p class="mx-14 italic">78200 Mantes la Jolie</p>
+            <p class="mx-14 ">(2007 - 2009)</p>
         </div>
         <div class="flex">
-            <div class="mt-10 mx-40">
-                <div>Bac pro electrotchnique</div>
+            <div class="mt-10 mx-44">
+                <div>Bac pro électrotechnique</div>
             </div>
         </div>
     </div>
     <div class=" border border-gray-500 mt-10"></div>
+    <h1 class="text-2xl mt-3">Centre d'interêt</h1>
+    <p class="mt-2 mx-14">🥊Boxe anglaise - 🎮 Jeux vidéos - 📚 Mangas - ✍️ Ecriture </p>
     
 </template>
