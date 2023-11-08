@@ -8,13 +8,12 @@
       <h1 class="text-white text-xl font-semibold mb-4 text-center mt-5">Profil </h1>
       <ul>
         <li class="mb-2">
-          <a href="#" class="text-white  px-2 py-1 rounded transition duration-300">Objectif :</a>
-        </li>
-        <li class="mb-2">
-          <a href="#" class="text-white  px-2 py-1 rounded transition duration-300">Compétences :</a>
+          <p class="text-white  px-2 py-1 rounded transition duration-300 underline">Compétences :</p>
+          <p class="mx-3 text-white italic">PHP, Laravel, Symfony, VueJS, Tailwind CSS, Bootstrap</p>
         </li>  
         <li class="mb-2">
-          <a href="#" class="text-white  px-2 py-1 rounded transition duration-300">Langues :</a>
+          <p class="text-white px-2 py-1 rounded transition duration-300 underline">Langues :</p>
+          <p class="mx-3 text-white italic">Français, Anglais</p>
         </li>
       </ul>
     </div>
