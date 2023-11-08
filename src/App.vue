@@ -17,6 +17,8 @@ import Content from '@/components/Content.vue';
       </div>
     </div>
   </div>
+  <!-- <div class="mt- bg-gradient-to-b from-purple-500 to-blue-500 h-40"></div> -->
+  <!-- <div class="bg-gray-900 mt-10 h-10"></div> -->
 </template>
 
 

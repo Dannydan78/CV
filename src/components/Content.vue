@@ -108,5 +108,5 @@
     <div class=" border border-gray-500 mt-10"></div>
     <h1 class="text-2xl mt-3">Centre d'interêt</h1>
     <p class="mt-2 mx-14">🥊Boxe anglaise - 🎮 Jeux vidéos - 📚 Mangas - ✍️ Ecriture </p>
-    
+    <div class=" border border-gray-500 mt-10"></div>
 </template>
